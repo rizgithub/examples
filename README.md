@@ -1,6 +1,7 @@
 # Helm Example Repository
 
 Ahoy world!  I'm a Helm repository for example charts.
+This is a basic helm repostiry - a helm chart
 
 ## Get started
 
